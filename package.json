@@ -2,7 +2,7 @@
 	"name": "toge",
 	"displayName": "Toge",
 	"description": "Toge theme for VS Code",
-	"version": "1.5.1",
+	"version": "1.5.2",
 	"icon": "images/logo.png",
 	"publisher": "FelipeMagalhaes",
 	"repository": {
