@@ -150,7 +150,7 @@ It is inspired by ancient Japanese Bonsai trees, martial arts (_bujutsu_, _kendo
 - Java
 - PHP
 - HTML / CSS / SCSS
-- And many more...
+- There is more...
 
 ## 🎚️ Recommended Settings
 
